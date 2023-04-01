@@ -20,7 +20,7 @@ body{
     height: 550px;  
     font-weight: 700;
     font-size: 64px;
-    background-image: url( fondo.png);
+    background-image: url(images/fondo.png);
     background-position:center top ;
     text-align: center;
     padding-top: 80px;
